@@ -8,10 +8,10 @@ Usage :
 
 optional parameters :
 
-- a : specific attack [default "/"]
-- u : no redirect domain target [default "/"]
-- m : method [default GET]
-- d : data of POST attack
+- -a : specific attack [default "/"]
+- -u : no redirect domain target [default "/"]
+- -m : method [default GET]
+- -d : data of POST attack
 
 join with our group : DDos Attackers Team
 
