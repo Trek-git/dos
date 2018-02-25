@@ -1,0 +1,16 @@
+JAVA
+Path : “knowledge/pemograman/java/part1.java”
+- [2] Digunakan untuk menutup secara otomatis jdialog
+- [24] Mendapatkan ekstensi file
+- [33] Fungsi untuk copy file menggunakan metode stream  
+- [50] Mendapatkan nama file
+- [59] Tulis file
+- [85] Cara baca folder
+- [95] Fungsi please wait 
+- [105] Send file + text ke server (http) | Dependensi class : files/MultipartUtility.java
+- [123] Nonton direktori | Dependensi class : files/WatchDir.java
+- [148] JFileChooser
+
+PHP
+Path : “knowledge/pemograman/php/part1.php
+-
